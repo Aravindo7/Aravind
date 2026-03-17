@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aravind Kumar K</h1>
-<h3 align="center">PHP Laravel Developer | 3+ Years | REST APIs · Redis · Backend Systems | Chennai, India</h3>
+<h3 align="center">PHP Laravel Developer | 3+ Years | REST APIs · Redis · Backend Systems | Madurai, India</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aravindo7&label=Profile%20views&color=0e75b6&style=flat" alt="aravindo7" />
