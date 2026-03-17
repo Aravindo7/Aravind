@@ -83,9 +83,9 @@
   <a href="https://github.com/Aravindo7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Aravindo7-181717?style=for-the-badge&logo=github" alt="github"/>
   </a>
-  <a href="https://linkedin.com/in/aravindkumark" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-aravindkumark-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin"/>
-  </a>
+ <a href="https://www.linkedin.com/in/aravind-kumar-1b54b1203/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-aravind--kumar-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin"/>
+</a>
   <a href="mailto:aravind24121999@gmail.com">
     <img src="https://img.shields.io/badge/Email-aravind24121999@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
