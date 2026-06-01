@@ -114,22 +114,6 @@ Building scalable backend systems, high-performance APIs, and enterprise Laravel
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aravindo7&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindo7&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindo7&theme=tokyonight" />
-</p>
-
----
-
 ## 🎓 Education
 
 **M.Sc Computer Science**
